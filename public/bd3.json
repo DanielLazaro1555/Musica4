@@ -372,5 +372,137 @@
     "album": "Nevada",
     "numero_de_pista": "3/3",
     "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274353_1.flac",
+    "descripcion": "198274353",
+    "imagen": "Albums/198274353.jpg",
+    "genero": "Dance & DJ/General",
+    "titulo": "Way Back (feat. Cozi Zuehlsdorff)",
+    "artista": "Vicetone",
+    "album": "Way Back (feat. Cozi Zuehlsdorff)",
+    "numero_de_pista": "1/1",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274354_1.flac",
+    "descripcion": "198274354",
+    "imagen": "Albums/198274354.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Confessions (feat. Cozi Zuehlsdorff)",
+    "artista": "Myrne",
+    "album": "Confessions (feat. Cozi Zuehlsdorff)",
+    "numero_de_pista": "1/1",
+    "Año": "2017"
+  },
+  {
+    "archivo_musica": "Albums/198274355_1.flac",
+    "descripcion": "198274355",
+    "imagen": "Albums/198274355.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Where I'll Be Waiting",
+    "artista": "Rich Edwards feat. Cozi Zuehlsdorff",
+    "album": "Where I'll Be Waiting",
+    "numero_de_pista": "1/1",
+    "Año": "2016"
+  },
+  {
+    "archivo_musica": "Albums/198274356_1.flac",
+    "descripcion": "198274356",
+    "imagen": "Albums/198274356.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "See It All (Radio Edit)",
+    "artista": "Rich Edwards feat. Jonny Rose",
+    "album": "See It All",
+    "numero_de_pista": "1/2",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274356_2.flac",
+    "descripcion": "198274356",
+    "imagen": "Albums/198274356.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "See It All",
+    "artista": "Rich Edwards feat. Jonny Rose",
+    "album": "See It All",
+    "numero_de_pista": "2/2",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274357_1.flac",
+    "descripcion": "198274357",
+    "imagen": "Albums/198274357.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Highway",
+    "artista": "F.O.O.L",
+    "album": "Highway EP",
+    "numero_de_pista": "1/6",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274357_2.flac",
+    "descripcion": "198274357",
+    "imagen": "Albums/198274357.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Escape Plan",
+    "artista": "F.O.O.L",
+    "album": "Highway EP",
+    "numero_de_pista": "2/6",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274357_3.flac",
+    "descripcion": "198274357",
+    "imagen": "Albums/198274357.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Memories from the Past",
+    "artista": "F.O.O.L & Anzo",
+    "album": "Highway EP",
+    "numero_de_pista": "3/6",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274357_4.flac",
+    "descripcion": "198274357",
+    "imagen": "Albums/198274357.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Waking Up",
+    "artista": "F.O.O.L & Laura Brehm",
+    "album": "Highway EP",
+    "numero_de_pista": "4/6",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274357_5.flac",
+    "descripcion": "198274357",
+    "imagen": "Albums/198274357.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Resurrection",
+    "artista": "F.O.O.L",
+    "album": "Highway EP",
+    "numero_de_pista": "5/6",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274357_6.flac",
+    "descripcion": "198274357",
+    "imagen": "Albums/198274357.jpg",
+    "genero": "Dance & DJ/Ambient",
+    "titulo": "Broken",
+    "artista": "F.O.O.L",
+    "album": "Highway EP",
+    "numero_de_pista": "6/6",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274358_1.flac",
+    "descripcion": "198274358",
+    "imagen": "Albums/198274358.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Pure Sunlight",
+    "artista": "Laura Brehm, Mr FijiWiji & AgNO3",
+    "album": "Pure Sunlight",
+    "numero_de_pista": "1/1",
+    "Año": "2014"
   }
 ]
