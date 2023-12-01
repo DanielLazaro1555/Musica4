@@ -196,5 +196,181 @@
     "album": "Hunted",
     "numero_de_pista": "1/1",
     "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274350_1.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Warrior Song",
+    "artista": "TheFatRat feat. Stasia Estep",
+    "album": "Warrior Songs",
+    "numero_de_pista": "1/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_2.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Origin",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "2/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_3.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Ascendancy",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "3/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_4.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Nemesis",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "4/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_5.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Origin Reprise",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "5/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_6.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Elevate [Explicit]",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "6/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_7.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Kingdom Come",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "7/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_8.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Mad Moon Falling",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "8/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_9.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Threnody",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "9/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_10.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Envelope [Explicit]",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "10/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_11.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Reminiscence",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "11/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274350_12.flac",
+    "descripcion": "198274350",
+    "imagen": "Albums/198274350.jpg",
+    "genero": "Soundtracks",
+    "titulo": "Afterlife",
+    "artista": "TheFatRat",
+    "album": "Warrior Songs",
+    "numero_de_pista": "12/12",
+    "Año": "2018"
+  },
+  {
+    "archivo_musica": "Albums/198274351_1.flac",
+    "descripcion": "198274351",
+    "imagen": "Albums/198274351.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "The Girl (feat. Cozi Zuehlsdorff)",
+    "artista": "Hellberg",
+    "album": "The Girl (feat. Cozi Zuehlsdorff)",
+    "numero_de_pista": "1/1",
+    "Año": "2015"
+  },
+  {
+    "archivo_musica": "Albums/198274352_1.flac",
+    "descripcion": "198274352",
+    "imagen": "Albums/198274352.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Nevada",
+    "artista": "Vicetone & Cozi Zuehlsdorff",
+    "album": "Nevada",
+    "numero_de_pista": "1/3",
+    "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274352_2.flac",
+    "descripcion": "198274352",
+    "imagen": "Albums/198274352.jpg",
+    "genero": "Dance & DJ/House",
+    "titulo": "Nevada (Sped Up)",
+    "artista": "Vicetone feat. Cozi Zuehlsdorff",
+    "album": "Nevada",
+    "numero_de_pista": "2/3",
+    "Año": "2023"
+  },
+  {
+    "archivo_musica": "Albums/198274352_3.flac",
+    "descripcion": "198274352",
+    "imagen": "Albums/198274352.jpg",
+    "genero": "Dance & DJ",
+    "titulo": "Nevada (Vicetone Lofi Mix)",
+    "artista": "Vicetone feat. Cozi Zuehlsdorff",
+    "album": "Nevada",
+    "numero_de_pista": "3/3",
+    "Año": "2023"
   }
 ]
